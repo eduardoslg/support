@@ -1,6 +1,6 @@
 <h1 align="center"> 🎥 Projeto Sistema de Chamados</h1>
 
-<p>Projeto criado com React JS, onde é possível cadastrar empresas, abrir chamados e apresentar em Dashboard toda a rotina dos chamados, com base no conteúdo apresentado pelo Curso do <strong><a href="https://www.youtube.com/c/FalaCoders" target="_blank" >Sujeito Programador</a></strong> da Fábrica de Aplicativos.</p>
+<p>Projeto criado com React JS, onde é possível cadastrar empresas, abrir chamados e apresentar em Dashboard toda a rotina dos chamados.</p>
 
 ![chamados](https://user-images.githubusercontent.com/83422460/200666021-99a0d3cd-e995-4ffc-8371-b0e9a04f906e.jpg)
 
