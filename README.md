@@ -2,7 +2,7 @@
 
 <p>Projeto criado com React JS, onde é possível cadastrar empresas, abrir chamados e apresentar em Dashboard toda a rotina dos chamados.</p>
 
-![chamados](https://user-images.githubusercontent.com/83422460/200666021-99a0d3cd-e995-4ffc-8371-b0e9a04f906e.jpg)
+![chamados](https://i.imgur.com/l0ZeyAJ.png)
 
 <div>
     <h2>💻 Stacks</h1>
